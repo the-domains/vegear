@@ -1,7 +1,7 @@
 name: Vegear
 favicon: null
-layout_spectrum: 0.30497036036103964
-typography_spectrum: 0.5939672568347305
+layout_spectrum: 0.50112
+typography_spectrum: 0.30737
 title: 'I find vegan cruelty-free brands, apparel, shoes, accesories and more.'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.2480201085563749
-  lightness: 0.8983365546446294
-  saturation: 0.9705458513926715
-  rhythmicContrast: 0.998209543293342
+    - '#4678c1'
+    - '#000000'
+    - '#31374f'
+    - '#e2eaff'
+    - '#cda79c'
+  brandStrength: 0.25
+  lightness: 1
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
